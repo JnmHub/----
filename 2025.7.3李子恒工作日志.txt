@@ -1,0 +1,4 @@
+2025 年 7 月 3 日
+
+1. 创建网店管家order 和 orderInfo 的实体类和mapper 和 Impl 和 Controller
+2. 创建前端订单页面（完成order展示，orderInfo展示未完成）

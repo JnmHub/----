@@ -1,0 +1,5 @@
+2025 年 7 月 4 日
+
+1. 创建mysql 对应的saleOrder 和 SaleOrderInfo 表
+2. 实现拉取sqlserver的方法（定时未实现）
+3. 前端实现订单详细展示页面
