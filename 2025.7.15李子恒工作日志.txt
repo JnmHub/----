@@ -1,0 +1,13 @@
+2025 年 7 月 15 日
+
+
+项目：
+
+后端：
+1. 推单系统 本地数据库SaleOrder，增加shopid和warehouseid
+2. 推单系统 获取绑定的店铺和仓库信息
+3. 推单系统 本地数据库店铺和仓库实体类 增加NotBlank
+4. 推单系统 为warehouse和shop 的 绑定对应id 设置unique,并且为controller save前增加判断
+
+前端：
+1. 推单系统 订单列表模块 展示shopid和warehouseid
